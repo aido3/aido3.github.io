@@ -1,4 +1,12 @@
 @font-face {
-  font-family: "Helvetivca New";
+  font-family: "Helvetica Neue";
   src: url("css/fonts/helveticaneue.ttc");
 }
+
+p {
+  font-family: "Helvetica Neue";
+  font-weight: normal;
+  font-style: normal;
+}
+
+
